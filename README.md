@@ -1,1 +1,2 @@
-# nfq_git_hw1
+# NFQ Akademijos "GIT" namų darbai 
+# Autorius: Rokas Kliučinskas
